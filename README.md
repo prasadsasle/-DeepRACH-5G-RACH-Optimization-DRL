@@ -75,7 +75,7 @@ results/graphs/                      → Output graphs
 
 ## 👨‍💻 Author
 
-Tanushree Bhamare
+Prasad Sasle
 B.Tech Project (5G + AI/ML)
 
 ---
